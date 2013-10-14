@@ -222,11 +222,11 @@ body{font:16px 'PT Sans',Helvetica,Arial,sans-serif;color:#444444;background:#ff
 p{line-height:1.5em;font-size:1em !important;}p i{margin-right:8px;color:#999;}
 li{margin:3px 0;line-height:1.5em;}
 a{color:#777;border-bottom:1px solid #fff;text-decoration:none;-moz-transition:ease all 300ms;-webkit-transition:ease all 300ms;-o-transition:ease all 300ms;transition:ease all 300ms;}
-a:hover{color:#444444;border-bottom:1px solid #2b96f1;}
-h2{font-weight:bold;font-size:2em;color:#0b61ab;}
+a:hover{color:#444444;border-bottom:1px solid #ff0000;}
+h2{font-weight:bold;font-size:2em;color:#ff0000;}
 .no-margin-top{margin-top:0 !important;}
-header{background:#0b61ab url('../img/whitey.png');color:#fff;padding:2em 0 4em 0;text-align:center;border-bottom:1px solid #245a87;}header h1{font-size:3em;font-weight:bold;margin:0.5em 0;text-shadow:0 2px 3px rgba(0, 0, 0, 0.4);}
-header h2{font-weight:300;font-size:1.15em;margin:0.5em 0;color:#052b4b;text-shadow:1px 1px rgba(255, 255, 255, 0.2);}header h2 .slash{font-weight:bold;color:#fff;text-shadow:none;}
+header{background:#ff0000 url('../img/whitey.png');color:#fff;padding:2em 0 4em 0;text-align:center;border-bottom:1px solid #245a87;}header h1{font-size:3em;font-weight:bold;margin:0.5em 0;text-shadow:0 2px 3px rgba(0, 0, 0, 0.4);}
+header h2{font-weight:300;font-size:1.15em;margin:0.5em 0;color:#000000;text-shadow:1px 1px rgba(255, 255, 255, 0.2);}header h2 .slash{font-weight:bold;color:#fff;text-shadow:none;}
 header h2 .slash:after{content:'\002F\002F';margin:0 0.5em;display:inline-block;position:relative;}
 .centered{margin:0 auto;width:760px;}
 .profile{font-family:'Droid Serif',Georgia,serif;max-width:760px;}.profile p{line-height:1.75em;width:528px;}
@@ -240,7 +240,7 @@ header h2 .slash:after{content:'\002F\002F';margin:0 0.5em;display:inline-block;
 .profiles li a:hover i{color:#2b96f1;}
 .resume{margin-top:-2em;}.resume h2{margin-top:0;}
 .resume .part{border-top:1px solid #ddd;padding:2.5em 0 1em 0;}.resume .part .part-heading{width:200px;float:left;margin:0;}
-.resume .part .desc{width:528px;margin-left:32px;margin-bottom:1em;float:right;}.resume .part .desc h4{color:#6da7d8;font-size:1.3em;margin:0;}
+.resume .part .desc{width:528px;margin-left:32px;margin-bottom:1em;float:right;}.resume .part .desc h4{color:#ff0000;font-size:1.3em;margin:0;}
 .resume .part .desc .period{float:right;background:#efefef;padding:0.25em 0.5em;border-radius:3px;margin:0 0 0.5em 0.5em;}
 body>footer{background:#ffffff url(../img/whitey.png);color:#777;border-top:1px solid #bbb;margin-top:3em;padding:0.75em 0;text-shadow:1px 1px #eee;font-weight:bold;}body>footer p{margin:0;}
 body>footer small{font-weight:normal;font-size:0.85em;}
